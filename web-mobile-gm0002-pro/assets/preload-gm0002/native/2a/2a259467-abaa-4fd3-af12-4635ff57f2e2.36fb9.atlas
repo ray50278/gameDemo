@@ -1,0 +1,90 @@
+
+cover_page.png
+size: 724,724
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_coin
+  rotate: false
+  xy: 326, 63
+  size: 201, 148
+  orig: 450, 450
+  offset: 126, 150
+  index: -1
+01_cup
+  rotate: true
+  xy: 458, 449
+  size: 273, 264
+  orig: 450, 450
+  offset: 81, 145
+  index: -1
+bg_set2
+  rotate: false
+  xy: 2, 472
+  size: 454, 250
+  orig: 648, 1152
+  offset: 104, 425
+  index: -1
+fx_chip_1
+  rotate: false
+  xy: 144, 26
+  size: 103, 94
+  orig: 450, 450
+  offset: 177, 173
+  index: -1
+fx_chip_2
+  rotate: true
+  xy: 529, 64
+  size: 147, 90
+  orig: 450, 450
+  offset: 143, 177
+  index: -1
+fx_chip_3
+  rotate: false
+  xy: 2, 19
+  size: 140, 101
+  orig: 450, 450
+  offset: 164, 166
+  index: -1
+fx_coin_1
+  rotate: false
+  xy: 641, 390
+  size: 64, 57
+  orig: 450, 450
+  offset: 193, 195
+  index: -1
+fx_coin_2
+  rotate: false
+  xy: 249, 76
+  size: 52, 44
+  orig: 450, 450
+  offset: 199, 202
+  index: -1
+fx_frontlight
+  rotate: false
+  xy: 326, 213
+  size: 313, 234
+  orig: 450, 450
+  offset: 69, 109
+  index: -1
+fx_spot_light1
+  rotate: false
+  xy: 249, 47
+  size: 28, 27
+  orig: 450, 450
+  offset: 211, 211
+  index: -1
+fx_spot_light2
+  rotate: false
+  xy: 641, 356
+  size: 32, 32
+  orig: 450, 450
+  offset: 210, 208
+  index: -1
+shine_lr
+  rotate: false
+  xy: 2, 122
+  size: 322, 348
+  orig: 450, 450
+  offset: 63, 44
+  index: -1

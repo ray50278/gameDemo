@@ -1,0 +1,1 @@
+{"importBase":"import","nativeBase":"native","name":"preload-jili-table","deps":[],"uuids":["20aEfXpQhNbbpxmribf1Wk"],"paths":{"0":["mp3/btn_sidebar_toggle",0,1]},"scenes":{},"packs":{},"versions":{"import":[0,"75028"],"native":[0,"01048"]},"redirect":[],"debug":false,"extensionMap":{},"hasPreloadScript":true,"dependencyRelationships":{},"types":["cc.AudioClip"]}

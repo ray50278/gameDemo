@@ -1,0 +1,62 @@
+
+win_coin.png
+size: 313,313
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin1
+  rotate: false
+  xy: 191, 20
+  size: 29, 28
+  orig: 500, 500
+  offset: 236, 236
+  index: -1
+coin2
+  rotate: true
+  xy: 119, 5
+  size: 77, 70
+  orig: 500, 500
+  offset: 212, 214
+  index: -1
+coin3
+  rotate: false
+  xy: 119, 84
+  size: 50, 66
+  orig: 500, 500
+  offset: 225, 216
+  index: -1
+coin4
+  rotate: true
+  xy: 2, 2
+  size: 148, 115
+  orig: 500, 500
+  offset: 135, 165
+  index: -1
+coin_all
+  rotate: true
+  xy: 171, 99
+  size: 104, 108
+  orig: 500, 500
+  offset: 199, 195
+  index: -1
+star1
+  rotate: false
+  xy: 2, 152
+  size: 167, 159
+  orig: 500, 500
+  offset: 167, 170
+  index: -1
+star2
+  rotate: false
+  xy: 171, 205
+  size: 113, 106
+  orig: 500, 500
+  offset: 194, 189
+  index: -1
+txt_win
+  rotate: false
+  xy: 191, 50
+  size: 111, 47
+  orig: 120, 60
+  offset: 3, 5
+  index: -1

@@ -1,0 +1,34 @@
+
+bet_frame.png
+size: 931,931
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+betlocked
+  rotate: false
+  xy: 134, 879
+  size: 331, 50
+  orig: 720, 1280
+  offset: 194, 613
+  index: -1
+frame_ef
+  rotate: false
+  xy: 2, 893
+  size: 130, 36
+  orig: 200, 200
+  offset: 36, 81
+  index: -1
+pleasebetnow
+  rotate: false
+  xy: 467, 879
+  size: 462, 50
+  orig: 720, 1280
+  offset: 129, 613
+  index: -1
+pleasebetnow_frame
+  rotate: false
+  xy: 2, 781
+  size: 720, 96
+  orig: 720, 1280
+  offset: 0, 592
+  index: -1

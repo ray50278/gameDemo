@@ -1,0 +1,34 @@
+
+dicecup.png
+size: 546,546
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pic/dice_cup_a
+  rotate: true
+  xy: 300, 250
+  size: 294, 120
+  orig: 500, 500
+  offset: 104, 79
+  index: -1
+pic/dice_cup_b
+  rotate: false
+  xy: 2, 68
+  size: 294, 160
+  orig: 500, 500
+  offset: 104, 134
+  index: -1
+pic/dice_cup_c
+  rotate: false
+  xy: 298, 88
+  size: 246, 140
+  orig: 500, 500
+  offset: 128, 131
+  index: -1
+pic/dice_cup_d
+  rotate: false
+  xy: 2, 230
+  size: 296, 314
+  orig: 500, 500
+  offset: 103, 106
+  index: -1

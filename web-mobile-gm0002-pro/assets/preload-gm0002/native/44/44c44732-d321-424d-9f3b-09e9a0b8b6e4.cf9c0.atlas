@@ -1,0 +1,55 @@
+
+extra_pay.png
+size: 791,791
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_extra_pay
+  rotate: false
+  xy: 2, 623
+  size: 314, 68
+  orig: 720, 1280
+  offset: 206, 454
+  index: -1
+fx_extra_pay_dot
+  rotate: false
+  xy: 736, 709
+  size: 35, 35
+  orig: 300, 300
+  offset: 134, 132
+  index: -1
+fx_extra_pay_frame
+  rotate: false
+  xy: 2, 693
+  size: 600, 96
+  orig: 720, 1280
+  offset: 92, 449
+  index: -1
+fx_extra_pay_in_dot
+  rotate: false
+  xy: 604, 676
+  size: 130, 113
+  orig: 300, 300
+  offset: 86, 93
+  index: -1
+fx_extra_pay_speed
+  rotate: false
+  xy: 736, 746
+  size: 53, 43
+  orig: 300, 300
+  offset: 106, 126
+  index: -1
+fx_extra_pay_star
+  rotate: false
+  xy: 441, 632
+  size: 59, 59
+  orig: 720, 1280
+  offset: 142, 495
+  index: -1
+fx_extra_pay_sweep
+  rotate: false
+  xy: 318, 601
+  size: 121, 90
+  orig: 720, 1280
+  offset: 296, 451
+  index: -1

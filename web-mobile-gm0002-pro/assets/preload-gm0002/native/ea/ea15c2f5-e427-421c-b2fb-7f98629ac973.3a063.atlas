@@ -1,0 +1,27 @@
+
+win_frame.png
+size: 606,606
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f2-6
+  rotate: false
+  xy: 2, 350
+  size: 262, 254
+  orig: 500, 500
+  offset: 119, 122
+  index: -1
+f2345
+  rotate: false
+  xy: 454, 450
+  size: 150, 154
+  orig: 500, 500
+  offset: 175, 172
+  index: -1
+f7
+  rotate: false
+  xy: 266, 350
+  size: 186, 254
+  orig: 500, 500
+  offset: 158, 122
+  index: -1
